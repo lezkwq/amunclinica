@@ -1,0 +1,6 @@
+packages:
+  - '.'
+nodeLinker: hoisted
+storeDir: .pnpm-cache/store
+virtualStoreType: project
+

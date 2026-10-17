@@ -1,0 +1,2 @@
+WhatsApp: https://github.com/simple-icons/simple-icons/blob/develop/icons/whatsapp.svg
+Instagram: https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg
